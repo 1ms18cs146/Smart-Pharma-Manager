@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725460875559",
+    "project_id": "mlkit-213a5",
+    "storage_bucket": "mlkit-213a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725460875559:android:1ed3e79826f57a32ce9102",
+        "android_client_info": {
+          "package_name": "com.example.pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725460875559-avrk60tb2pegv78mr19vn2ktqag0mavg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYIwzdZmS7qe3M-94pgb0cDC6fBpdKleI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725460875559-avrk60tb2pegv78mr19vn2ktqag0mavg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
